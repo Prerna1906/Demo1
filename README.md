@@ -1,4 +1,4 @@
 # Demo1
 this is my first git repo
 <br>
-Author - Prerna Uniyara
+Author - Prerna Prabhat Uniyara
